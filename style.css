@@ -1,0 +1,100 @@
+*{
+    margin: 0px 0px 0px 0px;
+}
+
+.logo{
+    height: 120px;
+    width: 120px;
+    margin-left:10px
+}
+
+button{
+    border-radius: 33px;
+    background-color: red;
+    border-style: hidden;
+    height: 70px;
+    width: 320px;
+    font-weight: bold;
+    margin-left: 75px;
+    cursor: pointer;
+}
+
+a{
+    height: 70px;
+    width: 120px;
+}
+
+header{
+    background-color: rgb(43, 43, 43);
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
+
+td{
+    height: 70px;
+    width: 120px;
+}
+
+h1{
+    margin:40px 0px 60px 40px;
+    color: red;
+    font-size: 50pt;
+}
+
+p{
+    margin: 0px 60px 30px 60px;
+    color: red;
+    font-size: 20pt;
+}
+
+body{
+    background-color: rgb(82, 82, 82);
+}
+
+.slogan{
+    text-align: center;
+    color: red;
+}
+
+.bem-vindo{
+    text-align: center;
+}
+
+.produtos{
+    margin-top: 30px;
+}
+
+.produtos td{
+    text-align: center;
+}
+
+.produtos td img{
+    height: 300px;
+    width: 300px;
+    margin: 60px 80px 0px 90px;
+    border-radius: 33px;
+}
+
+.grafico td{
+    border-style: solid;
+    background-color: white;
+    text-align: center;
+}
+
+.grafico .coluna-cheia{
+    background-color: red;
+    height: 300px;
+}
+
+.grafico .coluna{
+    height: 300px;
+}
+
+.vazio{
+    border: 0%;
+    border-style: none;
+}
+.grafico{
+    margin-left: 60px;
+}
